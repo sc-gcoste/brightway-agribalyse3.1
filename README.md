@@ -9,7 +9,7 @@ This repository contains two notebooks:
  - [exploring_agb3.1.ipynb](https://github.com/sc-gcoste/brightway-agribalyse3.1/blob/master/exploring_agb3.1.ipynb)
 shows how to import Agribalyse3.1 into Brightway and explore the data. 
  - [build_agb3.1_database.ipynb](https://github.com/sc-gcoste/brightway-agribalyse3.1/blob/master/build_agb3.1_database.ipynb)
-details how the Brightway database has been created from a SimaPro csv export and is for reference only.
+details how the Brightway database has been created from a SimaPro .csv export which can be downloaded [here](https://sustaincertcom-my.sharepoint.com/:x:/g/personal/gustave_coste_sustain-cert_com/ESwnbkR0VpRGrozFdZersVsBePolrNLmnVuCTeJbObSU4g?e=cTFO7Z&download=1).
 
 -----------
 
